@@ -7,3 +7,42 @@ git clone https://github.com/zsh-users/zsh-syntax-highlighting.git $ZSH_CUSTOM/p
 git clone https://github.com/zsh-users/zsh-syntax-highlighting.git $ZSH/plugins/zsh-syntax-highlighting
 git clone https://github.com/zsh-users/zsh-autosuggestions.git $ZSH/plugins/zsh-autosuggestions
 ```
+
+```
+brew install \
+  wget \
+  exa \
+  git \
+  nvm \
+  pnpm \
+  graphicsmagick \
+  commitzen \
+  cmatrix \
+  vips
+
+&&
+
+brew install --cask \
+  bitwarden \
+  google-chrome  \
+  firefox \
+  brave-browser \
+  tor \
+  iterm2 \
+  visual-studio-code \
+  sublime-text \
+  docker \
+  rectangle \
+  slack \
+  discord \
+  signal \
+  vlc \
+  calibre \
+  figma \
+  imageoptim \
+  maccy \
+  protonvpn \
+  zoom \
+  skype
+
+```
