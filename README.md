@@ -18,7 +18,8 @@ brew install \
   graphicsmagick \
   commitzen \
   cmatrix \
-  vips
+  vips \
+  python
 
 &&
 
